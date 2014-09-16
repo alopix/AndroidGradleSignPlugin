@@ -1,5 +1,3 @@
-package com.alexvasilkov
-
 import groovy.swing.SwingBuilder
 import org.gradle.api.Plugin
 import org.gradle.api.Project
